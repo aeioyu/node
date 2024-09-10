@@ -1,6 +1,5 @@
 -include config.mk
 
-
 BUILDTYPE ?= Release
 PYTHON ?= python3
 DESTDIR ?=
